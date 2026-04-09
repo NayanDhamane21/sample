@@ -1,4 +1,4 @@
-n=int(input("enter first number")
+n=int(input("enter first number"))
 n2=int(input("enter second number"))
 operator=input("enter operator ( +. -. *, /, )")
 if(operator=="+"):
